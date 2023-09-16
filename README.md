@@ -1,10 +1,21 @@
 - 👋 Hi, I’m @SomayehGhavideliSC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# python main library : 
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import time
 
-<!---
-SomayehGhavideliSC/SomayehGhavideliSC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# to choose random number : 
+from random import randint
+import random
+
+# Preprocessing library in ML models : 
+from sklearn import preprocessing
+from sklearn.model_selection import train_test_split
+from sklearn import metrics
+
+# LightGbm : 
+import lightgbm
+import seaborn as sns
+
+%matplotlib inline
